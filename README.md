@@ -1,3 +1,3 @@
 # rx-global-in-ccs
 
-DO NOT PUT DATA
+DONT HAVE DATA
